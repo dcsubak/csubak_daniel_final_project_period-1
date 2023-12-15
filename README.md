@@ -8,37 +8,32 @@ The game itself Breakout was originally created in 1976 and was compatible with 
 
 ## Getting Started
 
+Coding/game is easy to run and takes a few clicks to download/copypaste and run the working game
+
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+Need Windows 10/11
+Need Python 3.11 installed
+Need Visual Studio Code
+Need actual code
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+Install pygame
+Copy and paste code into VS code or download file and open file to run
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+Click run in VS code and code will boot up and will run and be playable
 
 ## Help
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+Speed of ball can be adjusted by replacing number with different number
+Speed of paddel can also be adjusted by replacing number with different number
 
 ## Authors
 
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+Daniel Csubak  
 
 ## Version History
 
@@ -50,13 +45,13 @@ ex. [@DomPizzie](https://twitter.com/dompizzie)
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the dcsubak License - see the LICENSE.md file for details
 
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+* [Python in Plain English](https://python.plainenglish.io/building-a-breakout-game-from-scratch-pygame-oop-132d992fedc0)
+* [KidsCanCode](https://www.youtube.com/watch?v=z6h6l1yJ5-w)
+* [LeMaster Tech](https://www.youtube.com/watch?v=atoGQ9o0ooI)
+* [Rik Cross](https://www.youtube.com/watch?v=2oKjzDcnKe4)
+* [Coding With Russ](https://www.youtube.com/watch?v=NIfkaOF3Hjs)

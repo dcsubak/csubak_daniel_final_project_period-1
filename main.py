@@ -4,6 +4,8 @@
 # https://python.plainenglish.io/building-a-breakout-game-from-scratch-pygame-oop-132d992fedc0
 # https://www.youtube.com/watch?v=z6h6l1yJ5-w
 # https://www.youtube.com/watch?v=atoGQ9o0ooI
+# https://www.youtube.com/watch?v=2oKjzDcnKe4
+# https://www.youtube.com/watch?v=NIfkaOF3Hjs
 # Content from Chris Cozort
 # Content from Liam Hare
 
@@ -25,7 +27,7 @@
 # When ball hits bricks, they kill the brick because of collision...
 # When player kills brick, they are rewarded points...
 
-# Freedom:
+# Freedoms:
 # Player can move paddle freely...
 # Player can miss or hit ball with paddle...
 # Player can reset game by missing ball with paddle...
