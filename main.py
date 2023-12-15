@@ -133,7 +133,7 @@ class BreakoutGame:
                     pygame.quit()
                     sys.exit()
 
-            self.paddle.move(4) # Base paddle speed based on player input...
+            self.paddle.move(2) # Base paddle speed based on player input (Adjustable)...
 
             if not self.bricks:
                 self.ball.dx = 0
